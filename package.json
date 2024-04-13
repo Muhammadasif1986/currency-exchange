@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "bin": {
-    "m.asif-todo-list": "index.js"
+    "m.asif-currency-convertor": "index.js"
   },
   "publishConfig": {
     "access": "public"
